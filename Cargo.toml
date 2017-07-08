@@ -1,0 +1,7 @@
+[package]
+name = "counter"
+version = "0.1.0"
+authors = ["dulaney.daniel@gmail.com"]
+description = "A simple occurrence counter in Rust"
+
+[dependencies]
